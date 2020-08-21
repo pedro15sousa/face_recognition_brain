@@ -1,3 +1,12 @@
+#Project created during web development course. It allows the user to create an account and upload images of people's faces. The Clarifai API uses machine learning to detect the face in the image and a rectangle will be drawn around the area detected. First time creating a project which includes front-end, back-end (server), and a database.
+###Technologies used:
+- React.js (front-end)
+- Node.js (server side)
+  -> Express.js
+  -> Bcrypt
+  -> Knex
+- PostgreSQL (database) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
